@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdlcPractice02", "RdlcPractice02\RdlcPractice02.csproj", "{78366E9A-E109-4764-8C8D-9A531C9CA544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{367983E9-19B2-4EA4-B33B-CB6DB31780C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78366E9A-E109-4764-8C8D-9A531C9CA544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78366E9A-E109-4764-8C8D-9A531C9CA544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78366E9A-E109-4764-8C8D-9A531C9CA544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78366E9A-E109-4764-8C8D-9A531C9CA544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367983E9-19B2-4EA4-B33B-CB6DB31780C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367983E9-19B2-4EA4-B33B-CB6DB31780C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367983E9-19B2-4EA4-B33B-CB6DB31780C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367983E9-19B2-4EA4-B33B-CB6DB31780C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F41F3D-2624-470E-B18A-8A391835DA19}
+	EndGlobalSection
+EndGlobal
